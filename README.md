@@ -9,6 +9,6 @@ I want to master the technique of telling stories with data by simplifying the i
 
 #Portfolio
 
--Critique #1
--Critique #2
--Final Project 
+/-Critique #1
+/-Critique #2
+/-Final Project 
