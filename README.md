@@ -9,6 +9,8 @@ I want to master the technique of telling stories with data by simplifying the i
 
 # Portfolio
 
--Critique #1 <br>
+# Goverment Visualization
+[https://sbohljop.github.io/portfolio/](/dataviz2)
+
 -Critique #2 <br>
 -Final Project 
