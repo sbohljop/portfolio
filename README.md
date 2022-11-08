@@ -10,7 +10,8 @@ I want to master the technique of telling stories with data by simplifying the i
 ## Portfolio
 
 ### Goverment Visualization
-[goverment debt](https://sbohljop.github.io/portfolio/dataviz2)
+[Goverment Debt](https://sbohljop.github.io/portfolio/dataviz2)
 
 -Critique #2 <br>
+
 -Final Project 
