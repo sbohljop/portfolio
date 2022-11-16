@@ -12,7 +12,8 @@ Initially, I quickly analyzed the visualization and identified what impacted me 
 After the quick inspection, I used Stephen Few's guide to evaluate the visualization in more detail. This strategy helped me better understand what things could be improved from the graph by analyzing aspects of usefulness, engagement, intuitiveness, etc. That made me realize that another thing that needed to be more intuitive about the chart was the order of the bars. As you can see in the picture above, the values aren't sorted by importance, which makes it harder to associate and evaluate which team is better at scoring goals. Additionally, the use of three graphs isn't adding more information but needs to be clarified which one is more important and how they relate to each other. The objective of a chart is to reduce the work done by the user, digesting as much as possible the data presented. Furthermore, I realized that the name of the third graph needed to be more precise about the measured values. Finally, I felt the colors were overused, making it look like a rainbow chart.
 
 ## Wireframe a solution
-<img width="419" src="https://github.com/sbohljop/portfolio/files/10025624/Untitled.Notebook.pdf">
+
+![Sketch](https://user-images.githubusercontent.com/117240476/202293926-70a8f9b0-67c9-4b83-bc18-af0e3edeb9bf.jpg)
 
 ## Test a solution
 
