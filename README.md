@@ -13,6 +13,6 @@ I want to master the technique of telling stories with data by simplifying the i
 [Goverment Debt](https://sbohljop.github.io/portfolio/dataviz2)
 
 ## Assignment 3 & 4: Critique by Design <br>
-[Women's Scoccer World Cup Visualization Critique](https://sbohljop.github.io/portfolio/dataviz2)
+[Women's Scoccer World Cup Visualization Critique](https://sbohljop.github.io/portfolio/critiquebydesign)
 
 -Final Project 
