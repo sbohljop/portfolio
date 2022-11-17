@@ -67,7 +67,7 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
+<br>
 I picked this graph because it better depicts the relationship between the games and the goals scored by the countries. Most of the recommendations I got from the people were that it took a lot of work to understand the average goals scored per match, and it would be helpful to compare them with the rest of the countries and not only with the top 10. Another insight the questionary gave me was that instead of aggregating all the years, it would be helpful to filter them manually and understand how team quality improved or worsened in history. 
 
 I tried to express a story about which countries stand out from the rest by scoring many goals or playing many matches. You can see a trend in the data that the most famous and best countries are highlighted in the graph. I showed the new chart in class, and people thought it was more intuitive and easier to understand and analyze how good a country is compared with the rest. 
