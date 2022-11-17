@@ -16,17 +16,42 @@ After the quick inspection, I used Stephen Few's guide to evaluate the visualiza
 ![Sketch](https://user-images.githubusercontent.com/117240476/202293926-70a8f9b0-67c9-4b83-bc18-af0e3edeb9bf.jpg)
 
 ## Test a solution
+After creating a sketch of the proposed visualization, I tested my proposal with a student with a background in numbers and an adult who didn't know about managing and plotting data. The questionary I used to collect the data is the following: 
 
-- What is the graph about?
+1. What is the graph about?
 
-- Can you describe to me what is it telling you?
+2. Can you describe to me what is it telling you?
 
-- Is there something that impacts you?
+3. Is there something that impacts you?
 
-- Is there anything you find confusing or hard to understand?
+4. Is there anything you find confusing or hard to understand?
 
-- Who do you think is the intended audience for this?
+5. Who do you think is the intended audience for this?
 
-- Is there anything you would change or do differently?
+6. Is there anything you would change or do differently?
+
+The answers I collected from the questionary are the following:
+
+Student, mid 30's
+
+1. The graph shows the goals per country, though i am wondering if its the average number of goals?
+2. The graph tells me NZ,KP,BR and JP have the highest number of goals out of all countries.
+3. I like the focus given to the first 4 countries and that a vivid color is used to emphasize on its importance, since the rest of the countries have a gray color.
+4. I find it hard to understand how was the number of goals per country calculated.
+5. The audience for this graph are soccer fans who might be curious of goals per country taking into account the timeframe.
+6. Something that might be tried is a bubble chart or some graph of the sorts that shows the changes per year.
+
+Adult, mid 30's
+
+1. The graph shows the best four countries in women's soccer scoring goals when playing at home. 
+2. The graph tells me that the highest scores per match in countries playing women's soccer are NZ, KP, BR, and JP. 
+3. I am impressed with the difference in goals scored between the top two and the rest. But I should have been interested in comparing them with the rest of the countries.
+4. I need help understanding the acronyms of the countries.
+5. The audience is soccer fans interested in knowing the best or best attackers in women's soccer international matches per country. 
+6. I would only group the data in some of the years because it can be that there are countries that are getting better at soccer.
+
+After reading the responses, I had new changes, including the graph. Sometimes the first approach to the graph could be better. The first thing I changed is that instead of a bar chart, I chose a scatter plot that compared two variables: games played and goals scored. Each point represents a country. The graph shows the relationship of goals to games played, in a sense that you can identify which teams are the ones that play more and have high total scores, the ones that score a lot but don't play that often, the ones that play a lot but don't have high scores and finally the ones that don't score and don't play too much. Eventually, the graph will filter between the dates the user wants to compare, allowing them to find the best or most famous teams at specific times in history.   
+
+
 
 ## Build your solution
