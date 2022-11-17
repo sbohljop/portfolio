@@ -52,6 +52,8 @@ Adult, mid 30's
 
 After reading the responses, I had new changes, including the graph. Sometimes the first approach to the graph could be better. The first thing I changed is that instead of a bar chart, I chose a scatter plot that compared two variables: games played and goals scored. Each point represents a country. The graph shows the relationship of goals to games played, in a sense that you can identify which teams are the ones that play more and have high total scores, the ones that score a lot but don't play that often, the ones that play a lot but don't have high scores and finally the ones that don't score and don't play too much. Eventually, the graph will filter between the dates the user wants to compare, allowing them to find the best or most famous teams at specific times in history.   
 
+### New Sketch
 
+![Untitled Notebook-2 2](https://user-images.githubusercontent.com/117240476/202333004-32543981-c9cf-49de-ac02-f483c10b7e29.jpg)
 
 ## Build your solution
