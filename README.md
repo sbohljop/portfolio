@@ -12,10 +12,10 @@ I want to master the technique of telling stories with data by simplifying the i
 ### Goverment Visualization
 [Goverment Debt](https://sbohljop.github.io/portfolio/dataviz2)
 
-### Assignment 3 & 4: Critique by Design <br>
+### Assignment 3 & 4: Critique by Design
 [Women's Scoccer World Cup Visualization Critique](https://sbohljop.github.io/portfolio/critiquebydesign)
 
-### Final Project: <br>
+### Final Project:
 [Part 1](https://sbohljop.github.io/portfolio/FP-part1)
 <br>
 [Part 2](https://sbohljop.github.io/portfolio/FP-part2)
