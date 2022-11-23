@@ -17,5 +17,6 @@ I want to master the technique of telling stories with data by simplifying the i
 
 ### Final Project: <br>
 [Part 1](https://sbohljop.github.io/portfolio/FP-part1)
+<br>
 [Part 2](https://sbohljop.github.io/portfolio/FP-part2)
 
