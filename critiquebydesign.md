@@ -1,4 +1,4 @@
-#To return to main page click [here](https://sbohljop.github.io/portfolio/)
+To return to main page click [here](https://sbohljop.github.io/portfolio/)
 
 # Critique By Design
 The following graph represents the statistics of the women's world cup soccer teams from 1969 to 2020. The link for the following graph can be found [here](https://observablehq.com/@cassiead/cse-442-a2). The title of the graph I selected is "Total Goals Scored in International Competition While Home (1969-2020)". 
