@@ -8,7 +8,7 @@ As a reader, I want to stop smoking cigarettes, vape, or any tobacco products to
 
 I can do this by understanding the relationship between nicotine and the levels of stress and how harmful smoking chemical substances is to our bodies. 
 
-![Untitled Notebook-6](https://user-images.githubusercontent.com/117240476/203668746-3f5964e4-91a0-4d99-9002-d261ac34c50c.jpg)
+<img width="602" alt="Screen Shot 2022-11-23 at 8 16 40 PM" src="https://user-images.githubusercontent.com/117240476/203672923-88f7ad49-86ef-4b7c-921c-04f065c8621b.png">
 
 What I want to relate through my Story Arc is that at the beginning, I want to share that even though we know smoking tobacco is harmful, many are unaware of how bad it is. When we think about death, most people believe nothing will happen to them, but according to [Our World in Data](https://ourworldindata.org/smoking), smoking tobacco is the number two cause of death by risk factor. Then I want to show the viewer the trend of smoking tobacco. Is it increasing o decreasing? Are more younger generations becoming addicted to smoking than before? Then I will cover vaping trends and how many estimated people are vaping. After that, I will cover why most people start smoking and why they continue. In my experience, I noticed that the first time I smoked was because I was curious, and a friend offered it to me. But I continued because of anxiety, and I needed something to calm and relax me. But I will show why this is mistakenly thought. Finally, I will show what to do to stop the addiction cycle and what has helped millions of people closing with a phrase that raises awareness or call to action. 
 
@@ -23,7 +23,7 @@ The second graph will be a historical line chart showing how smoking habits have
 ![Untitled Notebook-8](https://user-images.githubusercontent.com/117240476/203668788-7c663b82-3ef5-4fd8-8407-0ed0ddb39502.jpg)
 
 Finally, I will show why people smoke. Most people smoke because they are anxious and want to reduce their anxiety, but they don't know that they are actually prolonging it. 
-![Untitled Notebook-9](https://user-images.githubusercontent.com/117240476/203668796-13dc3eb8-f2a3-436d-9cb4-169f15e2467c.jpg)
+<img width="500" alt="Screen Shot 2022-11-23 at 8 17 09 PM" src="https://user-images.githubusercontent.com/117240476/203672961-39b25414-67c1-4dd2-a820-f18cb83b50e2.png">
 
 ## The Data
 I will primarily use the data from [Centers of Disease Control and Prevention](https://www.cdc.gov/tobacco/index.htm). They have surveys, historical consumption of vape and tobacco, anti-smoking campaign, and consumption per state. Additionally, I will pair information with datasets such as the one displayed in [Our World in Data](https://ourworldindata.org/smoking). 
