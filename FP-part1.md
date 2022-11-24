@@ -17,12 +17,15 @@ What I want to relate through my Story Arc is that at the beginning, I want to s
 In the story I want to share I want to use graphs that impact the viewers by digesting in an intuitive and easy way the facts about why is it bad to smoke. 
 
 The first visualization will be a horizontal bar hart that indicates how dangerous smoking is
-![Untitled Notebook-7](https://user-images.githubusercontent.com/117240476/203668770-90614f9c-be1e-4bf2-a943-605f77f7b2bc.jpg)
+
+<img width="596" alt="Screen Shot 2022-11-23 at 8 19 51 PM" src="https://user-images.githubusercontent.com/117240476/203673218-1faba803-adb1-4372-be7c-790b8d57e90a.png">
 
 The second graph will be a historical line chart showing how smoking habits have been dropping but are currently increasing. Additionally, I will add the consumers of e-cigarettes and if the percentage of people who vape is higher than the ones that smoke tobacco. 
-![Untitled Notebook-8](https://user-images.githubusercontent.com/117240476/203668788-7c663b82-3ef5-4fd8-8407-0ed0ddb39502.jpg)
+
+<img width="601" alt="Screen Shot 2022-11-23 at 8 20 04 PM" src="https://user-images.githubusercontent.com/117240476/203673230-01138f26-0555-499d-b737-6667322b8eaf.png">
 
 Finally, I will show why people smoke. Most people smoke because they are anxious and want to reduce their anxiety, but they don't know that they are actually prolonging it. 
+
 <img width="500" alt="Screen Shot 2022-11-23 at 8 17 09 PM" src="https://user-images.githubusercontent.com/117240476/203672961-39b25414-67c1-4dd2-a820-f18cb83b50e2.png">
 
 ## The Data
