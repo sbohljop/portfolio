@@ -47,6 +47,11 @@ Finally, wrap up the interview by giving thanks for their time and asking them i
 
 #### Findings
 
+- One of the most frequent comments I heard from the people is that I needed to include more information or statistics about why smoking vape is bad for health. Most of them vaped or were thinking about switching from smoking tobacco to vaping because they felt it was healthier. 
+- Include a different picture more related to what I am talking about in the slides.
+- Some slides had too much text, which distracted him. Something can be said shorter and have more robust and impactful effects on viewers.
+- The graphs are clear and connect the ideas of why people smoke. Many of them were amazed by how many people died from smoking tobacco. Nevertheless, they noticed that it was on nominal numbers and not per capita, so that the growth may be for the population.   
+
 #### Changes Proposed
 
 d. the findings from your interviews; and 
