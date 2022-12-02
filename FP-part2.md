@@ -27,6 +27,22 @@ In the user interviews, I am interested in finding several aspects of my present
 
 #### Main Section
 
+**Ask:** "How old are you? Have you been smoking vape or cigarettes for the past 100 days? Which one do you smoke? What are the main reasons you smoke?" 
+
+"As you can see, I have designed the storyboard. This slide deck is only a sketch of what I will be presenting, so there may be some slides without being completed, but the logical structure of the presentation is there. Feel free to stop me if you need help understanding a slide or think something needs to be clarified, think something makes sense or anything that you feel needs to be more interesting. " 
+
+As the interviewed person goes through the storyboard: encourage them to follow their process and try not to bias the interview. Let them inspect the graphs and share with you what they understand about them. 
+
+Let them finish the whole presentation and ask them the following questions:
+1. "Ok. After reviewing the presentation, what message was transmitted by the storyboard?"
+2. "What was the story told or the logical flow of the presentation?"
+3. "Were you captivated by the presentation?"
+4. "Did you had a hard time understanding the graphs? Were they clear enough?" 
+5. "Do you understand better why you smoke or what your triggers are?" 
+6. "Are you feeling like quitting smoking?" 
+7. "Who do you think the presentation should be shown to? Who should it be the target audience?"
+8. "What other questions do you have about the slide deck, if any?"
+
 
 
 d. the findings from your interviews; and 
