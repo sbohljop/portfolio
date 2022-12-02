@@ -54,5 +54,6 @@ Finally, wrap up the interview by giving thanks for their time and asking them i
 
 #### Changes Proposed
 
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+- There were many categories in the graph bars, so some recommended that I highlight the most important ones. They needed to figure out what to look at and what my intention was by including them. By changing the focus with color and bolding the name of the categories, I could attract the attention of the category I am interested in.
+- Make some graphs about how unhealthy vaping is and the harm to the body. Even though there is scarce data about it, share some statistics to make the spectators even more aware of the dangers of vaping. 
+- Use different types of graphs to experiment if the message is more impactful with those charts.
