@@ -43,7 +43,11 @@ Let them finish the whole presentation and ask them the following questions:
 7. "Who do you think the presentation should be shown to? Who should it be the target audience?"
 8. "What other questions do you have about the slide deck, if any?"
 
+Finally, wrap up the interview by giving thanks for their time and asking them if they have any questions for you. 
 
+#### Findings
+
+#### Changes Proposed
 
 d. the findings from your interviews; and 
 e. changes you plan on implementing to your visualizations next week to address the issues identified. 
