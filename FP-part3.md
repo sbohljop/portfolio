@@ -31,7 +31,7 @@ I split the creation of the storyboard into three parts: <br>
 2. A draft of the storyboard, wireframes, user research, and interviews.<br>
 3. The final storyboard version and a summary of all the backstage work.<br>
  
-#### Part 1
+#### Part 1
 In the first part of the project, I came up with the idea of making a story about the harms of smoking tobacco or e-cigarettes on health, but first, I had to define what the viewer wants by reading the slide deck and what would be the call of action of the viewer. 
 So I came up with the following idea: <br>
 As a reader, I want to stop smoking tobacco or e-cigarettes to become healthier, reduce my anxiety, and live longer.
@@ -41,5 +41,5 @@ Once the objective and the call to action were defined, I started working on the
 
 Finally, I researched datasets for the graphs that would answer the questions stated in the story's objective. Once I had the information available, I drew sketches of what I wanted to visualize with that data. The valuable thing about sketching is that the application features do not restrict your creativity, so I decided to draw them on an iPad.
 
-#### Part 2
+#### Part 2
 
