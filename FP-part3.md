@@ -28,7 +28,7 @@ Additionally, I received feedback that some of my graphs were very complex or ha
 ### Overall Project Summary
 I split the creation of the storyboard into three parts: <br>
 1. The story design, project outline, data sketches, and data collection.<br>
-2. A draft of the storyboard, wireframes, user research, and interviews.<br>
+2. A draft of the storyboard and charts, wireframes, user research, and interviews.<br>
 3. The final storyboard version and a summary of all the backstage work.<br>
  
 #### Part 1
@@ -42,4 +42,12 @@ Once the objective and the call to action were defined, I started working on the
 Finally, I researched datasets for the graphs that would answer the questions stated in the story's objective. Once I had the information available, I drew sketches of what I wanted to visualize with that data. The valuable thing about sketching is that the application features do not restrict your creativity, so I decided to draw them on an iPad.
 
 #### Part 2
+In the second part of the project, I started plotting the graphs in Flourish to have an effective and fast visualization to show them in the interviews. Nevertheless, much of the data I got didn't have the structure needed for the visualizations. So I had to process data before uploading the data into Flourish. Once I had all the visualizations, I decided to use Shorthand to do the presentation because it is more creative and better appealing than other available platforms. Additionally, I can better transmit the message I want to the audience by using Shorthand. The application has templates and tools that will enable me to present an impactful story, including graphs, text, and statistics. 
+After reading my first draft, I started with the first round of interviews to get feedback on my charts and presentations. I presented my storyboard to two CMU students and a friend from home. I designed. a script that helped me deliver the experiment better so I could get the best out of the interviewees' feedback. To identify the representative individuals to interview, I talked to people I knew who smoked cigarettes or vaped. I consider that someone smoked if they vaped or smoked for more than 100 days because there are non-frequent smokers. Being an active smoker is an essential part of the interview discovery because most of them, including myself when I used to smoke, do so because they are stressed or anxious.
+
+After collecting all of the data, I realized that one of the most frequent comments I heard from the people was that I needed to include more information or statistics about why smoking vaping is bad for health. Most of them vaped or were thinking about switching from smoking tobacco to vaping because they felt it was healthier. Also, some graphs were complicated to follow, especially the ones with historical data. I made some changes to the presentation. There were many categories in the graph bars, so some recommended that I highlight the most important ones. They needed to figure out what to look at and what my intention was by including them. By changing the focus with color and bolding the name of the categories, I could attract the attention of the type I am interested in. Make some graphs about how unhealthy vaping is and the harm to the body. Even though there is scarce data about it, share some statistics to make the spectators even more aware of the dangers of vaping.
+Finally, I did a second round of interviews and took the professor's and the TA's feedback. Some graphs were creative but needed more information to understand proportions; others took time to understand the intention of including them. So I modified several titles to help the viewer understand better what I wanted to highlight in the graphs and added color to the part I wanted to focus on. Finally, one of the best feedback I got in my second round of feedback was that my call of action was poor. I encouraged smokers to stop smoking, but I also should give a concrete action plan. I researched effective ways of quitting smoking, asked some psychologists about it, and interviewed old smokers about what worked for them. 
+
+#### Part 3
+<script src="https://carnegiemellon.shorthandstories.com/you-are-smoking-for-the-wrong-reasons/embed.js"></script>
 
