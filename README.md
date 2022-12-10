@@ -21,4 +21,7 @@ I want to master the technique of telling stories with data by simplifying the i
 [Part 2](https://sbohljop.github.io/portfolio/FP-part2)
 <br>
 [Part 3](https://sbohljop.github.io/portfolio/FP-part3)
+<br>
+[Final Presentation](https://carnegiemellon.shorthandstories.com/you-are-smoking-for-the-wrong-reasons/index.html)
+
 
